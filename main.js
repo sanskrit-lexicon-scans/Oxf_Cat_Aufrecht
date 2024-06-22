@@ -13,7 +13,7 @@ function get_verse_html(page) {
  let html = null;
  if (page == '') {page = '1';}
  let ipage = parseInt(page,10); // base 10
- if ((ipage < 1) || (ipage > 590)) {
+ if ((ipage < 1) || (ipage > 578)) {
   page = '1';
  }
  let nnn = page.padStart(3,'0');

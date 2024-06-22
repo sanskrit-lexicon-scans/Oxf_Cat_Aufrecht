@@ -1,10 +1,9 @@
 
 https://sanskrit-lexicon-scans.github.io/Oxf_Cat_Aufrecht/pdfpages/pg_125.pdf
 
-https://sanskrit-lexicon-scans.github.io/Oxf_Cat_Aufrecht?124
- or
-https://sanskrit-lexicon-scans.github.io/Oxf_Cat_Aufrecht/?124
+https://sanskrit-lexicon-scans.github.io/Oxf_Cat_Aufrecht/index.html?124
 
+page can be 1-578
 
 ***********************************************************
 Old readme
